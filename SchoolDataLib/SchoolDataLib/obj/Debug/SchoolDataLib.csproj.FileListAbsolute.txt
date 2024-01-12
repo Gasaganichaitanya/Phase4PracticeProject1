@@ -1,0 +1,9 @@
+D:\mphasis\Phase4PracticeProjects\PracticeProject2\SchoolDataLib\SchoolDataLib\bin\Debug\SchoolDataLib.dll
+D:\mphasis\Phase4PracticeProjects\PracticeProject2\SchoolDataLib\SchoolDataLib\bin\Debug\SchoolDataLib.pdb
+D:\mphasis\Phase4PracticeProjects\PracticeProject2\SchoolDataLib\SchoolDataLib\obj\Debug\SchoolDataLib.csproj.AssemblyReference.cache
+D:\mphasis\Phase4PracticeProjects\PracticeProject2\SchoolDataLib\SchoolDataLib\obj\Debug\SchoolDataLib.csproj.CoreCompileInputs.cache
+D:\mphasis\Phase4PracticeProjects\PracticeProject2\SchoolDataLib\SchoolDataLib\obj\Debug\SchoolDataLib.dll
+D:\mphasis\Phase4PracticeProjects\PracticeProject2\SchoolDataLib\SchoolDataLib\obj\Debug\SchoolDataLib.pdb
+D:\mphasis\Phase4PracticeProjects\PracticeProject2\SchoolDataLib\SchoolDataLib\bin\Debug\nunit.framework.dll
+D:\mphasis\Phase4PracticeProjects\PracticeProject2\SchoolDataLib\SchoolDataLib\bin\Debug\nunit.framework.xml
+D:\mphasis\Phase4PracticeProjects\PracticeProject2\SchoolDataLib\SchoolDataLib\obj\Debug\SchoolDataLib.csproj.CopyComplete
